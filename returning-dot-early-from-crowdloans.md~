@@ -1,1 +1,0 @@
-I am not sure either, but returning the DOT early is not possible going through the chain. Any DOT sent via crowdloan.contribute extrinsic will be locked up until the end of the lease (assuming they win a lease, of course).
